@@ -1,0 +1,17 @@
+Since your PC has Python 3.12.6 installed, you can install and use virtualenv with that version. Here's how:
+
+1. Install virtualenv
+python3.12 -m pip install virtualenv
+
+2.Verify Installation
+python3.12 -m virtualenv --version
+
+3. Create a Virtual Environment
+python3.12 -m virtualenv env
+
+4.virtualenv -p python3.12 env
+
+ 5.Activate the Virtual Environment:
+ .\env\Scripts\activate
+
+6.deactivate
