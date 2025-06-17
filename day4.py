@@ -36,3 +36,9 @@ var2 = 14.7
 var3= var1+var2
 print(var3)
 print(type(var3))
+
+#explicit type casting
+
+int_num = 101
+str_num = str(int_num)
+print(type(str_num))
