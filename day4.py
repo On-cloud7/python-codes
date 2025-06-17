@@ -42,3 +42,12 @@ print(type(var3))
 int_num = 101
 str_num = str(int_num)
 print(type(str_num))
+
+
+#input function
+
+a2 = input()
+print(a2)
+
+name1= input("enter ur name")
+print("my name is ",{name1})
