@@ -11,7 +11,9 @@ age = int(input("enter the age : "))
 if age > 19:
     print("you are an adult")
 
-2. if-else condition
+    
+
+# 2. if-else condition :
 
 temp = int(input(" enter the temperature : "))
 if temp >25:
@@ -19,7 +21,10 @@ if temp >25:
 else:
     print("it is a cool day ")
 
-3. if-elif-else condition:
+
+
+
+# 3. if-elif-else condition:
 
 score = int(input("enter ur score"))
 if score >= 90:
@@ -31,7 +36,9 @@ elif score >=70:
 else:
     print("grade - D")
 
-4. Nested 'if-else' Conditional 
+
+
+# 4. Nested 'if-else' Conditional :
 
 number = int (input("enter ur number"))
 if number > 0:
@@ -44,6 +51,7 @@ else:
         print("the number is zero")
     else:
         print("the number is negative")
+
 
 # 5. Ternary Conditions:
 
